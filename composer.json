@@ -1,7 +1,7 @@
 {
-    "name": "GeekPress/wp-rocket-cli",
+    "name": "inventivo/wp-rocket-cli",
     "type": "wp-cli-package",
-    "description": "Add a `wp rocket` command to support the WP Rocket plugin",
+    "description": "Add a `wp rocket` command to support the WP Rocket plugin - Fork from GeekPress/wp-rocket-cli",
     "keywords": ["wp-cli", "rocket", "cache"],
     "homepage": "https://github.com/GeekPress/wp-rocket-cli",
     "license": "MIT",
